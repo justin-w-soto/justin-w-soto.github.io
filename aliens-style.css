@@ -1,0 +1,21 @@
+body{background: #DEB1A4;
+background: -moz-linear-gradient(left, #DEB1A4 0%, #1F7AB5 50%, #C5C4B1 100%);
+background: -webkit-linear-gradient(left, #DEB1A4 0%, #1F7AB5 50%, #C5C4B1 100%);
+background: linear-gradient(to right, #DEB1A4 0%, #1F7AB5 50%, #C5C4B1 100%);}
+
+header{border:solid 1px #FFE6FF; opacity: 70%; padding: 100px; margin-left: 200px;margin-right: 200px; opacity:70%;background-image: url("https://www.casino.org/assets/media/images/series/ufo-odds/1979November9.jpg");}
+
+h1{color:#FFE6FF; color: #FFFFFF;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #FFE6FF, 0 0 30px #FFE6FF, 0 0 40px #FFE6FF, 0 0 55px #FFE6FF, 0 0 75px #FFE6FF, 2px 2px 5px rgba(243,223,216,0);
+ padding-top: 60px; text-align: center; font-size: 67px; opacity: 60%}
+.manface{text-align: center; opacity:20%;}
+p{font-size: 38px; text-align: center;color:#FFE6FF }
+
+button{
+font-size: 28px;border-radius: 8px;
+padding: 20px; margin: 3px;	background: #DE5DCE;
+background: -moz-radial-gradient(center, #DE5DCE 0%, #1F7AB5 57%, #C52798 100%);
+background: -webkit-radial-gradient(center, #DE5DCE 0%, #1F7AB5 57%, #C52798 100%);
+background: radial-gradient(ellipse at center, #DE5DCE 0%, #1F7AB5 57%, #C52798 100%);
+}
+a{text-decoration:none;}
